@@ -1,1 +1,1 @@
-Place contains all data used in the sis.
+Place contains all data used in thesis.
