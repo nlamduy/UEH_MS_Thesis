@@ -1,4 +1,4 @@
-# University of Economics - Master of Science - Mathematical Economics
+# University of Economics Ho Chi Minh City (UEH) - Master of Science - Mathematical Economics
 
 Thesis subject: Portfolio Optimization: An Application of Risk-based Loan Pricing
 
