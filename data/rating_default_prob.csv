@@ -1,4 +1,4 @@
-credit_rating,default_mob,probability
+default_mob,credit_rating,probability
 -1,1,0.902
 4,1,0.003
 5,1,0.008
