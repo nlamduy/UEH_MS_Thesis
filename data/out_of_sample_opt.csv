@@ -1,4 +1,4 @@
-rating,default_mob,tenor,eir,prin_amt,lgd,recovery_rate,act_present_val,act_profit,opt_eir,opt_profit,solve_time
+rating,default_mob,tenor,eir,prin_amt,lgd,recovery_rate,act_present_val,act_profit,opt_eir,opt_obj,solve_time
 2,-1,48,0.335,45,-1.0,1.0,77.39753454110819,32.397534541108186,0.2876,5.2558,38.0
 4,-1,24,0.4,20,-1.0,1.0,28.471852097640962,8.471852097640962,0.3181,1.725,39.0
 7,10,48,0.265,40,1.0,0.0,12.08811289518933,-27.91188710481067,0.4282,1.3263,38.0
